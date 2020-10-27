@@ -1,0 +1,13 @@
+C:\Users\kent_\Documents\github\Im-bored-and-this-makes-me-feel-like-I-m-doing-work\Problem-B\bin\Debug\netcoreapp3.1\Problem-B.exe
+C:\Users\kent_\Documents\github\Im-bored-and-this-makes-me-feel-like-I-m-doing-work\Problem-B\bin\Debug\netcoreapp3.1\Problem-B.deps.json
+C:\Users\kent_\Documents\github\Im-bored-and-this-makes-me-feel-like-I-m-doing-work\Problem-B\bin\Debug\netcoreapp3.1\Problem-B.runtimeconfig.json
+C:\Users\kent_\Documents\github\Im-bored-and-this-makes-me-feel-like-I-m-doing-work\Problem-B\bin\Debug\netcoreapp3.1\Problem-B.runtimeconfig.dev.json
+C:\Users\kent_\Documents\github\Im-bored-and-this-makes-me-feel-like-I-m-doing-work\Problem-B\bin\Debug\netcoreapp3.1\Problem-B.dll
+C:\Users\kent_\Documents\github\Im-bored-and-this-makes-me-feel-like-I-m-doing-work\Problem-B\bin\Debug\netcoreapp3.1\Problem-B.pdb
+C:\Users\kent_\Documents\github\Im-bored-and-this-makes-me-feel-like-I-m-doing-work\Problem-B\obj\Debug\netcoreapp3.1\Problem-B.csprojAssemblyReference.cache
+C:\Users\kent_\Documents\github\Im-bored-and-this-makes-me-feel-like-I-m-doing-work\Problem-B\obj\Debug\netcoreapp3.1\Problem-B.AssemblyInfoInputs.cache
+C:\Users\kent_\Documents\github\Im-bored-and-this-makes-me-feel-like-I-m-doing-work\Problem-B\obj\Debug\netcoreapp3.1\Problem-B.AssemblyInfo.cs
+C:\Users\kent_\Documents\github\Im-bored-and-this-makes-me-feel-like-I-m-doing-work\Problem-B\obj\Debug\netcoreapp3.1\Problem-B.csproj.CoreCompileInputs.cache
+C:\Users\kent_\Documents\github\Im-bored-and-this-makes-me-feel-like-I-m-doing-work\Problem-B\obj\Debug\netcoreapp3.1\Problem-B.dll
+C:\Users\kent_\Documents\github\Im-bored-and-this-makes-me-feel-like-I-m-doing-work\Problem-B\obj\Debug\netcoreapp3.1\Problem-B.pdb
+C:\Users\kent_\Documents\github\Im-bored-and-this-makes-me-feel-like-I-m-doing-work\Problem-B\obj\Debug\netcoreapp3.1\Problem-B.genruntimeconfig.cache
